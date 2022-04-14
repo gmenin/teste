@@ -8,5 +8,5 @@ package com.ae.exemplo;
  *
  */
 public class ClasseTeste {
-
+	private String nome;
 }
